@@ -1,3 +1,4 @@
+#Binary to Decimal & Octal to Hexadecimal Conversion
 def binaryToDecimal(binary):
  decimal, i ,= 0, 0
  while(binary!= 0):
