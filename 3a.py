@@ -1,3 +1,5 @@
+#write a Python program that accepts a sentence and find the number of 
+#words, digits, uppercase letters and lowercase letters.
 s=input("Enter a sentence:")
 w,d,l,u=0,0,0,0
 l_w=s.split()
