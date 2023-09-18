@@ -1,3 +1,4 @@
+#Palindrome Check & Digit Occurrence Count
 val = int(input("Enter the value"))
 str_val=str(val)
 if str_val == str_val[::-1]:
