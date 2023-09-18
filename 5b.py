@@ -1,3 +1,5 @@
+#Develop a python program that could search the text in a file for
+#phone numbers (+919900889977) and email addresses
 with open('filename.txt', 'r') as file:
       text = file.read() 
 import re
