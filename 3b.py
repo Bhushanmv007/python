@@ -1,3 +1,4 @@
+#Write a Python program to find the string similarity between two given strings.
 from difflib import SequenceMatcher
 s1="Python lab"
 s2="Python lsb" 
